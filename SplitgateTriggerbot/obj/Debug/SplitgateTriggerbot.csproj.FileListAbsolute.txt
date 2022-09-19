@@ -1,0 +1,14 @@
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\bin\Debug\SplitgateTriggerbot.exe.config
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\bin\Debug\SplitgateTriggerbot.exe
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\bin\Debug\SplitgateTriggerbot.pdb
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.csproj.AssemblyReference.cache
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.Form1.resources
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.Properties.Resources.resources
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.csproj.GenerateResource.cache
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.csproj.CoreCompileInputs.cache
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.exe
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.pdb
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.csproj.ResolveComReference.cache
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\bin\Debug\Guna.UI.dll
+C:\Users\jenso\source\repos\SplitgateTriggerbot\SplitgateTriggerbot\obj\Debug\SplitgateTriggerbot.csproj.CopyComplete
